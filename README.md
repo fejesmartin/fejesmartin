@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">I'm studying software development at Codecool.</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 📫 How to reach me **fejes.martin00@gmail.com**
 
