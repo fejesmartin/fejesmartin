@@ -1,3 +1,5 @@
+![MASTERHEAD](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
+
 <h1 align="center">Hi, I'm Martin</h1>
 <h3 align="center">A passionate full stack developer from Hungary.</h3>
 
