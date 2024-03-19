@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Martin</h1>
 <h3 align="center">A passionate full stack developer from Hungary.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fejesmartin&label=Profile%20views&color=0e75b6&style=flat" alt="fejesmartin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fejesmartin" alt="fejesmartin" /></a> </p>
 
-- 🌱 I’m currently learning ** <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> Java Spring Boot and <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> Angular.**
+- 🌱 I’m currently learning **Java Spring Boot and Angular.**
 
 - 📫 How to reach me **fejes.martin00@gmail.com**
 
